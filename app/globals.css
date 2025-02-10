@@ -13,3 +13,11 @@
 .hook-title {
 	@apply text-xl font-bold;
 }
+
+.hooks-page-main {
+	@apply p-5;
+}
+
+.hooks-page-title {
+	@apply text-2xl font-bold;
+}
