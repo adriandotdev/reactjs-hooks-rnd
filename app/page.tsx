@@ -17,6 +17,12 @@ export default function Home() {
 				"useEffect is a Hook that lets you perform side effects in functional components.",
 			href: "/useEffect",
 		},
+		{
+			id: 3,
+			name: "useMemo",
+			description: "useMemo is a Hook that lets you memoize values.",
+			href: "/useMemo",
+		},
 	];
 	return (
 		<main className="p-10 flex flex-col gap-5">
